@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 ## Overview
 The purpose of this analysis is to introduce the class to Tableau. Learning how to use the interface we learned:
