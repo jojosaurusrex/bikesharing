@@ -19,7 +19,7 @@ Figure 2. Illustrates usage based on the time of the day, and checkout time for 
 ![ch14pic3](https://user-images.githubusercontent.com/98374315/171049231-ec01db38-0dd3-432b-8d0c-1a7543e93548.PNG)
 Figure 3. Illustrates usage based on gender, time of day, and day of the week. 
 
-[https://public.tableau.com/shared/H3S9Q3ZYT?:display_count=n&:origin=viz_share_link]("link to dashboard")
+[link to dashboard](https://public.tableau.com/shared/H3S9Q3ZYT?:display_count=n&:origin=viz_share_link)
 
 
 ## Summary
